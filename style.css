@@ -8,14 +8,14 @@
     text-align: center;
     margin-top: 50px;
     margin-bottom: 40px;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 700;
 }
 
 .subtitulo {
     text-align: center;
     margin-top: 20px;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 600;
 }
 
@@ -28,16 +28,16 @@
 .info {
     text-align: left;
     margin: 30px auto 30px 10px;
-    color: #39393A;
+    color: #39393a;
     line-height: 30px;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 25px;
 }
 
 body {
-    background-color: #EAEAEA;
-    color: #1B1B1B;
-    font-family: 'Roboto', sans-serif;
+    background-color: #eaeaea;
+    color: #1b1b1b;
+    font-family: "Roboto", sans-serif;
 }
 
 .arquivolindo {
@@ -46,7 +46,7 @@ body {
 }
 
 .box {
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     text-decoration-color: aqua;
     width: auto;
     height: auto;
