@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.subtitulo {
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.inside {
+    list-style-position: inside;
+}
+
+.ingredientes,
+.mododefazer,
+.info {
+    text-align: left;
+    margin: 30px auto 30px 10px;
+    color: #39393A;
+    line-height: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+}
+
+body {
+    background-color: #EAEAEA;
+    color: #1B1B1B;
+    font-family: 'Roboto', sans-serif;
+}
+
+.arquivolindo {
+    border-radius: 10%;
+    text-align: center;
+}
+
+.box {
+    background-color: #FFFFFF;
+    text-decoration-color: aqua;
+    width: auto;
+    height: auto;
+    margin: 50px 400px 50px 450px;
+    padding: 12px 200px 12px 200px;
+    border-radius: 30px;
+    text-align: justify;
+    position: absolute;
+}
+
+.icon {
+    size: 10px;
+}
