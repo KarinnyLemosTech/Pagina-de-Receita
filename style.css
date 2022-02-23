@@ -6,17 +6,17 @@
 
 .titulo {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 70px;
     margin-bottom: 40px;
     font-family: "Roboto", sans-serif;
-    font-weight: 700;
+    font-size: 50px;
 }
 
 .subtitulo {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 70px;
     font-family: "Roboto", sans-serif;
-    font-weight: 600;
+    font-size: 40px;
 }
 
 .inside {
@@ -29,9 +29,9 @@
     text-align: left;
     margin: 30px auto 30px 10px;
     color: #39393a;
-    line-height: 30px;
+    line-height: 60px;
     font-family: "Roboto", sans-serif;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 body {
@@ -45,7 +45,7 @@ body {
     text-align: center;
 }
 
-.box {
+.cabecalho {
     background-color: #ffffff;
     text-decoration-color: aqua;
     width: auto;
@@ -57,6 +57,7 @@ body {
     position: absolute;
 }
 
-.icon {
-    size: 10px;
+.descricao {
+    font-size: 25px;
+    text-align: center;
 }
