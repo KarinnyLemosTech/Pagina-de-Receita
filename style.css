@@ -43,6 +43,7 @@ body {
 .arquivolindo {
     border-radius: 10%;
     text-align: center;
+    width: 100%;
 }
 
 .cabecalho {
@@ -50,8 +51,8 @@ body {
     text-decoration-color: aqua;
     width: auto;
     height: auto;
-    margin: 50px 400px 50px 450px;
-    padding: 12px 200px 12px 200px;
+    margin: 2em 8em;
+    padding: 3em 10em;
     border-radius: 30px;
     text-align: justify;
     position: absolute;
